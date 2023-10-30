@@ -1,0 +1,46 @@
+header{
+    font-family: Georgia, Times, serif;
+    font-size: 17px;
+}
+
+.header-margin{
+    margin-top: 20px;
+    margin-bottom: -15px;
+}
+
+body{
+    font-family: "Time New Roman", Times, serif;
+    font-size: 18px;
+}
+
+footer{
+    font-family: "Time New Roman", Times, serif;
+    font-size: 14px;
+}
+
+a:link, a:visited{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#profile{
+    width: 170px;
+    height: 170px;
+}
+
+.flag{
+    width: 25px;
+    height: 25px;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#negative{
+    margin-top: -30px;
+}

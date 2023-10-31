@@ -1,6 +1,6 @@
 header{
     font-family: Georgia, Times, serif;
-    font-size: 17px;
+    font-size: 20px;
 }
 
 .header-margin{
@@ -16,6 +16,10 @@ body{
 footer{
     font-family: "Time New Roman", Times, serif;
     font-size: 14px;
+    margin: 15px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
 }
 
 a:link, a:visited{
@@ -43,4 +47,12 @@ p{
 
 #negative{
     margin-top: -30px;
+}
+
+h1{
+    font-weight: bold;
+}
+
+h5{
+    font-weight: bold;
 }
